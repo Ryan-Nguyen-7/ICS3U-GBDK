@@ -1,0 +1,1 @@
+/opt/gbdk/bin/lcc -o ../web/rom/game.gb game.c
